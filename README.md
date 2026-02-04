@@ -9,6 +9,10 @@ git clone https://github.com/Fitunnel/ToolsEncDec
 ```
 
 ```
+cd ToolEncDec
+```
+
+```
 bash requirements.sh
 ```
 
