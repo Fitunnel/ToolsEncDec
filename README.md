@@ -9,7 +9,7 @@ git clone https://github.com/Fitunnel/ToolsEncDec
 ```
 
 ```
-cd ToolEncDec
+cd ToolsEncDec
 ```
 
 ```
