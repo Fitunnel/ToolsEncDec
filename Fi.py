@@ -178,8 +178,8 @@ def main():
         print(f"{white}------------------------------------------")
         print(f"{green}[1] {bold}🔓 BATCH DECRYPT (Obfuscate Loop){end}")
         print(f"{green}[2] {bold}🔐 BATCH ENCRYPT (Obfuscate Loop){end}")
-        print(f"{cyan}[3] {bold}🚀 ONCLICK AES DECRYPT (Auto-Pass){end}")
-        print(f"{cyan}[4] {bold}💎 BATCH AES ENCRYPT (Custom Pass/Iter){end}")
+        print(f"{green}[3] {bold}🚀 ONCLICK AES DECRYPT (Auto-Pass){end}")
+        print(f"{green}[4] {bold}💎 BATCH AES ENCRYPT (Custom Pass/Iter){end}")
         print(f"{green}[5] {bold}📝 BATCH TEXT EDITOR{end}")
         print(f"{green}[0] {red}🚪 Keluar{end}")
         print(f"{white}------------------------------------------")
@@ -197,3 +197,4 @@ def main():
 if __name__ == '__main__':
     try: setup_folders(); main()
     except KeyboardInterrupt: sys.exit()
+
