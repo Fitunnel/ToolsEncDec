@@ -17,9 +17,9 @@ bash requirements.sh
 ```
 
 ```
-chmod +x fi.py
+chmod +x Fi.py
 ```
 
 ```
-python3 fi.py
+python3 Fi.py
 ```
